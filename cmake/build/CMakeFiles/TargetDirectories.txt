@@ -1,0 +1,3 @@
+/home/pch/Documents/C++/cmake/build/CMakeFiles/soldier_cmake.dir
+/home/pch/Documents/C++/cmake/build/CMakeFiles/edit_cache.dir
+/home/pch/Documents/C++/cmake/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -O2 -Wall -rdynamic CMakeFiles/soldier_cmake.dir/main.cpp.o CMakeFiles/soldier_cmake.dir/src/Gun.cpp.o CMakeFiles/soldier_cmake.dir/src/Soldier.cpp.o -o soldier_cmake 
