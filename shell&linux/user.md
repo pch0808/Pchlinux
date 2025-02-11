@@ -52,3 +52,17 @@ usermod -aG $group $username
 **user permission+ usergroup permission+else**
 
 r:read;w:write;x:excute  (move work file to this folder)
+
+**chmod [-R]  permission file&folder**
+
+>-R  not just folder
+
+>permission u=**; g=* ;o=*![alt text](image.png)
+
+**r=4;w=2;x=1**
+
+**chrown [-R] user&user group  file&folder**
+
+
+**ctrl+r** search history
+
