@@ -76,9 +76,9 @@ ls ./environment | grep hello.cpp
 
 >cover add to the right file
 
-tail -f -2 ./environment/hello.cpp
+tail -f -2 ./environment/hello.cpp 
 
 >  cat from end  
 
 >-$num    
->-f follow modify
+>-f follow modify持续追踪
