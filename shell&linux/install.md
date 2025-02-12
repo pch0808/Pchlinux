@@ -53,7 +53,7 @@ sudo netstat -anp|grep 6000  找本机6000端口号的程序 没有则空闲
 
 >>-9表示强制
 
-**top**  ==进程管理器  ![alt text](<屏幕截图 2025-02-11 205615.png>)
+**top**  ==进程管理器  ![alt text](<info.png>)
 
 **df** 磁盘使用
 
